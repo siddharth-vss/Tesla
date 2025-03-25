@@ -19,7 +19,7 @@ Our team name, **DOJO'S KATANAS,** is a tribute to our journey and training. We 
 Clone the project
 
 ```bash
-  git clone https://github.com/hardikk04/-DOJO-KATANS-ReimagineRound1.git
+  git clone https://github.com/siddharth-vss/Tesla.git
 ```
 
 Go to the project directory
